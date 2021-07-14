@@ -1,0 +1,6 @@
+com/xengom/web/PostsApiControllerTest.java
+ com.xengom.web.PostsApiControllerTest
+com/xengom/domain/posts/PostsRepositoryTest.java
+ com.xengom.domain.posts.PostsRepositoryTest
+com/xengom/web/IndexControllerTest.java
+ com.xengom.web.IndexControllerTest
