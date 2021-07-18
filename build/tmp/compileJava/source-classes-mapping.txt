@@ -1,8 +1,8 @@
 com/xengom/web/dto/PostsSaveRequestDto.java
  com.xengom.web.dto.PostsSaveRequestDto
  com.xengom.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/xengom/config/auth/LoginUserArgumentResolver.java
- com.xengom.config.auth.LoginUserArgumentResolver
+com/xengom/web/IndexController.java
+ com.xengom.web.IndexController
 com/xengom/web/PostsApiController.java
  com.xengom.web.PostsApiController
 com/xengom/config/auth/LoginUser.java
@@ -13,8 +13,9 @@ com/xengom/config/auth/dto/SessionUser.java
  com.xengom.config.auth.dto.SessionUser
 com/xengom/web/dto/PostsResponseDto.java
  com.xengom.web.dto.PostsResponseDto
-com/xengom/domain/posts/PostsRepository.java
- com.xengom.domain.posts.PostsRepository
+com/xengom/config/auth/dto/OAuthAttributes.java
+ com.xengom.config.auth.dto.OAuthAttributes
+ com.xengom.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/xengom/config/auth/SecurityConfig.java
  com.xengom.config.auth.SecurityConfig
 com/xengom/domain/user/User.java
@@ -29,8 +30,8 @@ com/xengom/domain/BaseTimeEntity.java
  com.xengom.domain.BaseTimeEntity
 com/xengom/config/WebConfig.java
  com.xengom.config.WebConfig
-com/xengom/domain/user/UserRepository.java
- com.xengom.domain.user.UserRepository
+com/xengom/config/auth/CustomOAuth2UserService.java
+ com.xengom.config.auth.CustomOAuth2UserService
 com/xengom/Application.java
  com.xengom.Application
 com/xengom/service/posts/PostsService.java
@@ -38,10 +39,9 @@ com/xengom/service/posts/PostsService.java
 com/xengom/domain/posts/Posts.java
  com.xengom.domain.posts.Posts
  com.xengom.domain.posts.Posts$PostsBuilder
-com/xengom/config/auth/CustomOAuth2UserService.java
- com.xengom.config.auth.CustomOAuth2UserService
-com/xengom/web/IndexController.java
- com.xengom.web.IndexController
-com/xengom/config/auth/dto/OAuthAttributes.java
- com.xengom.config.auth.dto.OAuthAttributes
- com.xengom.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/xengom/domain/posts/PostsRepository.java
+ com.xengom.domain.posts.PostsRepository
+com/xengom/config/auth/LoginUserArgumentResolver.java
+ com.xengom.config.auth.LoginUserArgumentResolver
+com/xengom/domain/user/UserRepository.java
+ com.xengom.domain.user.UserRepository
